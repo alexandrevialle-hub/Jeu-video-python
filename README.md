@@ -1,4 +1,4 @@
-Petit jeux-vidéo 2D façon Zelda
+Petit jeu-vidéo 2D façon Zelda
 
 Guide du jeu
 
